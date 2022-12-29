@@ -5,7 +5,7 @@
   "engines": {
     "node": "16"
   },
-  "homepage": "https://higojhon.github.io/solar-system",
+  "homepage": "https://higojhon.github.io/Project-08-Solar-System/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
